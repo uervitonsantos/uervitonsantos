@@ -6,7 +6,7 @@
 
 ##### Contact 
 
-<!--[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=flat-the-badge&logo=gmail&logoColor=white)](uerviton@gmail.com)-->
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=flat-the-badge&logo=gmail&logoColor=white)
 [![Twitter Follow](https://img.shields.io/twitter/follow/uervitonsantos?style=social)](https://twitter.com/uervitonsantos)
 [![Linkedin: uerviton](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uerviton-santos/)](https://www.linkedin.com/in/uerviton-santos/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat-the-badge&logo=github&logoColor=white)](https://github.com/uervitonsantos)
