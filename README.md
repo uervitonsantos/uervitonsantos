@@ -1,6 +1,6 @@
 ### Hi, I'm Uerviton 👋
 
-##### I'm currently learning Artificial Intelligence and Machine Learning. I also study systems development and object-oriented programming
+I'm currently learning Artificial Intelligence and Machine Learning. I also study systems development and object-oriented programming
 
 - 🤖👨‍💻 
 
