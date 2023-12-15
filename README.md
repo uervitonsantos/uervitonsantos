@@ -46,7 +46,7 @@ These are some of the technologies and tools that I work with:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-the-badge&logo=windows&logoColor=white)
 
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 
 
