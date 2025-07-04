@@ -1,6 +1,8 @@
 ### Hi, I'm Uerviton 👋
 
-I'm currently learning Artificial Intelligence and Machine Learning. I also study systems development and object-oriented programming
+I'm a software engineer and researcher specializing in Artificial Intelligence and Machine Learning. My passion lies in developing intelligent systems and applying computational optimization techniques.
+
+I hold a Master's degree in Computer Science and Management, which provides me with a solid foundation to integrate technical knowledge with management strategies. My core technical skills include Java and Python, languages I leverage to build robust and efficient solutions.
 
 - 🤖👨‍💻 
 
